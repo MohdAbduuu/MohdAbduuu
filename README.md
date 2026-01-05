@@ -1,11 +1,16 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0a371b7b-6a1e-45df-a657-4949365c3546" width="75%" />
+</div>
+<br/>
+
 # Hi, I'm Abdullah.
 
 **Data Science & Machine Learning**
 
 ### 🛠 Tech Stack
 * **Languages:** Python (Pandas, NumPy, Scikit-Learn)
-* **Focus:** NLP, Deep Learning, Data Visualization
-* **Currently Learning:** Reinforcement Learning, Cloud Computing, Model Deployment
+* **Focus:** NLP, Deep Learning, Data Visualization, Data Science, ML, AI
+
 
 ### 🤝 Collaboration
 Open to **Kaggle competitions** and building **AI applications**.
