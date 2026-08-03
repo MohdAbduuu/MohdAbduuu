@@ -1,7 +1,18 @@
-# Abdullah (MohdAbduuu)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0a371b7b-6a1e-45df-a657-4949365c3546" width="75%" />
+</div>
+<br/>
 
-Data Scientist • Machine Learning Engineer
+# Hi, I'm Abdullah.
 
-NLP · Deep Learning · Data Visualization
+**Data Science & Machine Learning**
 
-[github.com/MohdAbduuu](https://github.com/MohdAbduuu)
+### 🛠 Tech Stack
+* **Languages:** Python (Pandas, NumPy, Scikit-Learn)
+* **Focus:** NLP, Deep Learning, Data Visualization, Data Science, ML, AI
+
+
+### 🤝 Collaboration
+Open to **Kaggle competitions** and building **AI applications**.
+
+[<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/MohdAbduu) &nbsp; [<img src="https://img.shields.io/[...]
