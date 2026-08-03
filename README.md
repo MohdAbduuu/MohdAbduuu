@@ -5,7 +5,7 @@
 
 # Hi, I'm Abdullah.
 
-**Data Science & Machine Learning**
+**Data Science & Machine Learning & Full Stack & AI applications**
 
 ### 🛠 Tech Stack
 * **Languages:** Python (Pandas, NumPy, Scikit-Learn)
